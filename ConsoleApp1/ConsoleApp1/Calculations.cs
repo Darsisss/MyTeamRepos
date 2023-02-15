@@ -24,7 +24,7 @@ namespace ConsoleApp1
             }
             else if ((a == b) || (b == c) || (a == c))
             {
-                return "Этот треугольник равнобедряный";
+                return "Этот треугольник равнобедренный";
             }
             else
             {
